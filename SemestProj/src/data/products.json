@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Med",
+      "image": "src/assets/IMG/medmaci.jpg",
+      "description": "Kvetový Med\nHmotnosť: 1KG\n7.50 EUR / KUS",
+      "price": 7.50
+    },
+    {
+      "id": 2,
+      "name": "Propolis",
+      "image": "src/assets/IMG/propolis.jpg",
+      "description": "Propolis\nHmotnosť: 100ml\n10 EUR / KUS",
+      "price": 10.00
+    },
+    {
+      "id": 3,
+      "name": "3in1",
+      "image": "src/assets/IMG/combo.jpg",
+      "description": "Pastovaný és Kvetový Med\nHmotnosť: 1.5KG\n17EUR / KUS",
+      "price": 17.00
+    }
+  ]
+  
